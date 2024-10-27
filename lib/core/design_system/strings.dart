@@ -1,0 +1,15 @@
+const String logo = 'Design Guild';
+const String joinOurCommunityToday = 'Join our \ncommunity today';
+const String getConnected = 'Get connected, find designers to start a project';
+const String signUp = 'Sign Up';
+const String loginWith = 'Or, login with';
+const String email = 'Email';
+const String password = 'Password';
+const String login = 'Login';
+const String forgotPassword = 'Forgot Password?';
+const String welcome = 'Welcome to Design Guild';
+const String joinUs = 'Join the world’s largest community for designers';
+const String recentLogins = 'Recent Logins';
+const String addAccount = 'Add Account';
+const String name1 = 'Aliana Hepburn';
+const String name2 = 'Andrew Pochink';
